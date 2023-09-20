@@ -1,4 +1,4 @@
-// Backlinks Code Go Here!
+// Backlinks Go Here!
 const backlinksList= [{
   link: "https://slopegame.gitlab.io/car-games.html",
   text: "CAR",
